@@ -1,0 +1,21 @@
+.navbar-top {
+  height: 69px;
+  width: 100%;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1060;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 1px 4px rgba(0,0,0,0.2);
+}
+
+.navbar-top-logo {
+  padding-left: 20px;
+}
+
+.navbar-top-logo img {
+  height: 45px;
+}
